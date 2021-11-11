@@ -1,5 +1,15 @@
 {
     "I-See MAINT | Login": "I-See MAINT | Login",
     "I-See MAINT": "I-See MAINT",
-    "I-See MAINT | Dashboard": "I-See MAINT | Hauptfeld"
+    "I-See MAINT | Dashboard": "I-See MAINT | Hauptfeld",
+    "I-See MAINT | Reports": "I-See MAINT | Berichte",
+    "I-See MAINT | Planning": "I-See MAINT | Planung",
+    "I-See MAINT | Tasks": "I-See MAINT | Aufgaben",
+    "I-See MAINT | Routes": "I-See MAINT | Routen",
+    "I-See MAINT | Profile": "I-See MAINT | Profil",
+    "I-See MAINT | Inspection": "I-See MAINT | Inspektion",
+    "Planning": "Planung",
+    "Next": "Nächste",
+    "Previous": "Vorherige",
+    "Today": "Heute"
 }
